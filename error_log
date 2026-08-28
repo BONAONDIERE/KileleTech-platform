@@ -1,0 +1,96 @@
+[21-Aug-2026 08:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navActive() in /home/kilelete/public_html/includes/header.php:2
+Stack trace:
+#0 /home/kilelete/public_html/downloads.php(3): include()
+#1 {main}
+  thrown in /home/kilelete/public_html/includes/header.php on line 2
+[21-Aug-2026 08:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navActive() in /home/kilelete/public_html/includes/header.php:2
+Stack trace:
+#0 /home/kilelete/public_html/downloads.php(3): include()
+#1 {main}
+  thrown in /home/kilelete/public_html/includes/header.php on line 2
+[21-Aug-2026 08:44:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navActive() in /home/kilelete/public_html/includes/header.php:2
+Stack trace:
+#0 /home/kilelete/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/kilelete/public_html/includes/header.php on line 2
+[21-Aug-2026 08:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function navActive() in /home/kilelete/public_html/includes/header.php:2
+Stack trace:
+#0 /home/kilelete/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/kilelete/public_html/includes/header.php on line 2
+[25-Aug-2026 08:49:38 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/kilelete/public_html/includes/header.php on line 22
+[26-Aug-2026 12:09:49 UTC] PHP Warning:  require(db.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:09:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/submit_review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:09:55 UTC] PHP Warning:  require(db.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:09:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/submit_review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:15:34 UTC] PHP Warning:  require_once(/home/kilelete/public_html/db.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:15:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/db.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/submit_review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:17:55 UTC] PHP Warning:  require_once(/home/kilelete/public_html/db.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:17:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/db.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/submit_review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:18:00 UTC] PHP Warning:  require_once(/home/kilelete/public_html/db.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:18:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/db.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/submit_review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:18:48 UTC] PHP Warning:  require_once(/home/kilelete/public_html/db.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:18:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/db.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/submit_review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:18:53 UTC] PHP Warning:  require_once(/home/kilelete/public_html/db.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/submit_review.php on line 2
+[26-Aug-2026 12:18:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/db.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/submit_review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/submit_review.php on line 2
+[27-Aug-2026 11:00:14 UTC] PHP Warning:  Undefined variable $pdo in /home/kilelete/public_html/projects.php on line 7
+[27-Aug-2026 11:00:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kilelete/public_html/projects.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/projects.php on line 7
+[27-Aug-2026 11:02:10 UTC] PHP Warning:  Undefined variable $pdo in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:02:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kilelete/public_html/projects.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:05:42 UTC] PHP Warning:  Undefined variable $pdo in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kilelete/public_html/projects.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:06:10 UTC] PHP Warning:  Undefined variable $pdo in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kilelete/public_html/projects.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:13:01 UTC] PHP Warning:  Undefined variable $pdo in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:13:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kilelete/public_html/projects.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:13:40 UTC] PHP Warning:  Undefined variable $pdo in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:13:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kilelete/public_html/projects.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:13:58 UTC] PHP Warning:  Undefined variable $pdo in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:13:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kilelete/public_html/projects.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:14:06 UTC] PHP Warning:  Undefined variable $pdo in /home/kilelete/public_html/projects.php on line 9
+[27-Aug-2026 11:14:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/kilelete/public_html/projects.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/projects.php on line 9

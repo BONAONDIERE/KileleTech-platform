@@ -1,0 +1,335 @@
+[20-Aug-2026 11:38:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'username' in /home/kilelete/public_html/admin/users.php:18
+Stack trace:
+#0 /home/kilelete/public_html/admin/users.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/users.php on line 18
+[20-Aug-2026 11:38:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'username' in /home/kilelete/public_html/admin/users.php:18
+Stack trace:
+#0 /home/kilelete/public_html/admin/users.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/users.php on line 18
+[20-Aug-2026 11:38:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'username' in /home/kilelete/public_html/admin/users.php:18
+Stack trace:
+#0 /home/kilelete/public_html/admin/users.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/users.php on line 18
+[20-Aug-2026 11:43:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'username' in /home/kilelete/public_html/admin/users.php:22
+Stack trace:
+#0 /home/kilelete/public_html/admin/users.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/users.php on line 22
+[20-Aug-2026 11:57:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'username' in /home/kilelete/public_html/admin/users.php:22
+Stack trace:
+#0 /home/kilelete/public_html/admin/users.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/users.php on line 22
+[20-Aug-2026 11:57:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'username' in /home/kilelete/public_html/admin/users.php:22
+Stack trace:
+#0 /home/kilelete/public_html/admin/users.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/users.php on line 22
+[20-Aug-2026 11:58:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin1' for key 'username' in /home/kilelete/public_html/admin/users.php:22
+Stack trace:
+#0 /home/kilelete/public_html/admin/users.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/users.php on line 22
+[24-Aug-2026 13:41:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kilelete_kilele_tech.projects' doesn't exist in /home/kilelete/public_html/admin/dashboard.php:16
+Stack trace:
+#0 /home/kilelete/public_html/admin/dashboard.php(16): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/dashboard.php on line 16
+[24-Aug-2026 13:42:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kilelete_kilele_tech.projects' doesn't exist in /home/kilelete/public_html/admin/dashboard.php:16
+Stack trace:
+#0 /home/kilelete/public_html/admin/dashboard.php(16): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/dashboard.php on line 16
+[24-Aug-2026 13:42:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kilelete_kilele_tech.projects' doesn't exist in /home/kilelete/public_html/admin/dashboard.php:16
+Stack trace:
+#0 /home/kilelete/public_html/admin/dashboard.php(16): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/dashboard.php on line 16
+[25-Aug-2026 06:16:51 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:16:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:16:51 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:16:51 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:16:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:16:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:16:51 UTC] PHP Warning:  Undefined variable $userRole in /home/kilelete/public_html/admin/dashboard.php on line 22
+[25-Aug-2026 06:16:51 UTC] PHP Warning:  Undefined variable $canManageAdmins in /home/kilelete/public_html/admin/dashboard.php on line 28
+[25-Aug-2026 06:17:05 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:05 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:05 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:05 UTC] PHP Warning:  Undefined variable $userRole in /home/kilelete/public_html/admin/dashboard.php on line 22
+[25-Aug-2026 06:17:05 UTC] PHP Warning:  Undefined variable $canManageAdmins in /home/kilelete/public_html/admin/dashboard.php on line 28
+[25-Aug-2026 06:17:12 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:12 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:12 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:12 UTC] PHP Warning:  Undefined variable $userRole in /home/kilelete/public_html/admin/dashboard.php on line 22
+[25-Aug-2026 06:17:12 UTC] PHP Warning:  Undefined variable $canManageAdmins in /home/kilelete/public_html/admin/dashboard.php on line 28
+[25-Aug-2026 06:17:20 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:20 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:20 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:20 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:20 UTC] PHP Warning:  Undefined variable $userRole in /home/kilelete/public_html/admin/dashboard.php on line 22
+[25-Aug-2026 06:17:20 UTC] PHP Warning:  Undefined variable $canManageAdmins in /home/kilelete/public_html/admin/dashboard.php on line 28
+[25-Aug-2026 06:17:26 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:26 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:26 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:26 UTC] PHP Warning:  Undefined variable $userRole in /home/kilelete/public_html/admin/dashboard.php on line 22
+[25-Aug-2026 06:17:26 UTC] PHP Warning:  Undefined variable $canManageAdmins in /home/kilelete/public_html/admin/dashboard.php on line 28
+[25-Aug-2026 06:17:33 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:33 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:33 UTC] PHP Warning:  Undefined variable $userRole in /home/kilelete/public_html/admin/dashboard.php on line 22
+[25-Aug-2026 06:17:33 UTC] PHP Warning:  Undefined variable $canManageAdmins in /home/kilelete/public_html/admin/dashboard.php on line 28
+[25-Aug-2026 06:17:38 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:38 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:38 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:38 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:38 UTC] PHP Warning:  Undefined variable $userRole in /home/kilelete/public_html/admin/dashboard.php on line 22
+[25-Aug-2026 06:17:38 UTC] PHP Warning:  Undefined variable $canManageAdmins in /home/kilelete/public_html/admin/dashboard.php on line 28
+[25-Aug-2026 06:17:48 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:48 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:48 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:48 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:48 UTC] PHP Warning:  Undefined variable $userRole in /home/kilelete/public_html/admin/dashboard.php on line 22
+[25-Aug-2026 06:17:48 UTC] PHP Warning:  Undefined variable $canManageAdmins in /home/kilelete/public_html/admin/dashboard.php on line 28
+[25-Aug-2026 06:17:54 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:54 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 19
+[25-Aug-2026 06:17:54 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:54 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kilelete/public_html/admin/dashboard.php on line 21
+[25-Aug-2026 06:17:54 UTC] PHP Warning:  Undefined variable $userRole in /home/kilelete/public_html/admin/dashboard.php on line 22
+[25-Aug-2026 06:17:54 UTC] PHP Warning:  Undefined variable $canManageAdmins in /home/kilelete/public_html/admin/dashboard.php on line 28
+[25-Aug-2026 07:20:56 UTC] PHP Warning:  require_once(includes/admin_header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/messages.php on line 3
+[25-Aug-2026 07:20:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/admin_header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/messages.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/messages.php on line 3
+[25-Aug-2026 07:21:02 UTC] PHP Warning:  require_once(includes/admin_header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/messages.php on line 3
+[25-Aug-2026 07:21:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/admin_header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/messages.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/messages.php on line 3
+[25-Aug-2026 07:21:08 UTC] PHP Warning:  require_once(includes/admin_header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/messages.php on line 3
+[25-Aug-2026 07:21:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/admin_header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/messages.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/messages.php on line 3
+[25-Aug-2026 07:21:11 UTC] PHP Warning:  require_once(includes/admin_header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/messages.php on line 3
+[25-Aug-2026 07:21:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/admin_header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/messages.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/messages.php on line 3
+[25-Aug-2026 10:06:39 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:06:39 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:06:39 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:06:39 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:06:43 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:06:43 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:06:43 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:06:43 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:07:02 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:07:02 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:07:02 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:07:02 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:07:06 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:07:06 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:07:06 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:07:06 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:10:55 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:10:55 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:10:55 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:10:55 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:11:00 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:11:00 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:11:00 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:11:00 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:11:13 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:11:13 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:11:13 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:11:13 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:11:36 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:11:36 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:11:36 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:11:36 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:15:31 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:15:31 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 14
+[25-Aug-2026 10:15:31 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/dashboard.php on line 551
+[25-Aug-2026 10:15:31 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/dashboard.php on line 551
+[26-Aug-2026 05:33:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 05:34:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:34:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:34:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 05:36:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:36:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:37:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 05:38:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:42:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:43:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:47:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:47:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 05:47:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:52:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:53:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 05:54:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 05:56:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 06:13:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 06:15:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 06:38:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 06:40:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 06:56:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 06:56:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 06:59:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kilelete/public_html/admin/test.php on line 9
+[26-Aug-2026 07:05:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:07:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:07:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:08:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:10:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:10:40 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/test_header.php on line 9
+[26-Aug-2026 07:10:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/test_header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/test_header.php on line 9
+[26-Aug-2026 07:17:25 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/test_header.php on line 9
+[26-Aug-2026 07:17:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/test_header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/test_header.php on line 9
+[26-Aug-2026 07:17:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:17:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:17:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kilelete/public_html/admin/test.php on line 9
+[26-Aug-2026 07:18:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 07:28:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kilelete/public_html/admin/test.php on line 9
+[26-Aug-2026 07:28:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:29:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 07:30:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:33:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:49:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:49:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 07:50:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 11:21:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[26-Aug-2026 11:21:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 11:24:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 14
+[26-Aug-2026 11:24:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/includes/db.php:27) in /home/kilelete/public_html/admin/login.php on line 38
+[27-Aug-2026 05:33:53 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 12
+[27-Aug-2026 05:33:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 12
+[27-Aug-2026 05:33:57 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 12
+[27-Aug-2026 05:33:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 12
+[27-Aug-2026 05:34:04 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 12
+[27-Aug-2026 05:34:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 12
+[27-Aug-2026 05:45:29 UTC] PHP Warning:  require_once(/home/kilelete/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:45:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/admin/includes/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:49:06 UTC] PHP Warning:  require_once(/home/kilelete/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:49:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/admin/includes/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:49:12 UTC] PHP Warning:  require_once(/home/kilelete/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:49:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/admin/includes/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:49:31 UTC] PHP Warning:  require_once(/home/kilelete/public_html/admin/includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:49:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/admin/includes/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:51:22 UTC] PHP Warning:  require_once(/home/kilelete/public_html/admin/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:51:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/admin/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:51:33 UTC] PHP Warning:  require_once(/home/kilelete/public_html/admin/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:51:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/admin/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:51:41 UTC] PHP Warning:  require_once(/home/kilelete/public_html/admin/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:51:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/admin/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 3
+[27-Aug-2026 05:59:09 UTC] PHP Warning:  require_once(/home/kilelete/public_html/admin/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/subscribers.php on line 8
+[27-Aug-2026 05:59:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kilelete/public_html/admin/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/subscribers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 8
+[27-Aug-2026 06:06:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kilelete/public_html/admin/admin_header.php:14) in /home/kilelete/public_html/admin/subscribers.php on line 19
+[27-Aug-2026 06:47:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'SET' in /home/kilelete/public_html/admin/subscribers.php:32
+Stack trace:
+#0 /home/kilelete/public_html/admin/subscribers.php(32): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 32
+[27-Aug-2026 06:48:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'SET' in /home/kilelete/public_html/admin/subscribers.php:40
+Stack trace:
+#0 /home/kilelete/public_html/admin/subscribers.php(40): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 40
+[27-Aug-2026 06:48:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'SET' in /home/kilelete/public_html/admin/subscribers.php:40
+Stack trace:
+#0 /home/kilelete/public_html/admin/subscribers.php(40): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 40
+[27-Aug-2026 06:49:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'SET' in /home/kilelete/public_html/admin/subscribers.php:45
+Stack trace:
+#0 /home/kilelete/public_html/admin/subscribers.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 45
+[27-Aug-2026 06:50:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'SET' in /home/kilelete/public_html/admin/subscribers.php:45
+Stack trace:
+#0 /home/kilelete/public_html/admin/subscribers.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 45
+[27-Aug-2026 07:05:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function formatTime() in /home/kilelete/public_html/admin/subscribers.php:243
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 243
+[27-Aug-2026 07:05:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function formatTime() in /home/kilelete/public_html/admin/subscribers.php:243
+Stack trace:
+#0 {main}
+  thrown in /home/kilelete/public_html/admin/subscribers.php on line 243
+[27-Aug-2026 07:12:31 UTC] Subscriber add error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'INSERT INTO'
+[27-Aug-2026 07:12:46 UTC] Subscriber add error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'INSERT INTO'
+[27-Aug-2026 07:22:10 UTC] Subscriber add error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'INSERT INTO'
+[27-Aug-2026 12:21:16 Africa/Nairobi] PHP Warning:  Undefined variable $unreadMessages in /home/kilelete/public_html/admin/dashboard.php on line 392
+[27-Aug-2026 12:24:08 Africa/Nairobi] PHP Warning:  Undefined variable $unreadMessages in /home/kilelete/public_html/admin/dashboard.php on line 392
+[27-Aug-2026 10:23:34 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/bundle_quotes.php on line 3
+[27-Aug-2026 10:23:34 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/bundle_quotes.php on line 3
+[27-Aug-2026 10:23:34 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/bundle_quotes.php on line 203
+[27-Aug-2026 10:23:34 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/bundle_quotes.php on line 203
+[27-Aug-2026 10:24:43 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/bundle_quotes.php on line 3
+[27-Aug-2026 10:24:43 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/bundle_quotes.php on line 3
+[27-Aug-2026 10:24:43 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home/kilelete/public_html/admin/bundle_quotes.php on line 203
+[27-Aug-2026 10:24:43 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/kilelete/public_html/admin/bundle_quotes.php on line 203
